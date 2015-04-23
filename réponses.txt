@@ -1,0 +1,34 @@
+1) A quoi fait référence le mot clé java this ?
+
+Le mot-clé "this" peut être utilisé pour passer une référence à l'instance elle-même comme paramètre d'une méthode
+
+2) A quoi fait référence le mot clé java super ?
+
+le mot-clé "super" permet de désigner la superclasse, c'est-à-dire qu'à l'aide du mot-clé "super", il est possible de manipuler les données membres et les méthodes de la superclasse.
+
+3) Qu'est ce que l'instanciation ?
+
+L'instanciation d'une classe c'est créer un objet ayant pour modèle la classe concernée. Cette opération est assimilable à l'allocation d'une variable (objet) d'un certain type (classe).
+
+4) Quel est la différence entre un objet et une classe ?
+
+Un objet est une instance d’une classe et une classe est considérée comme une description de ce qu’il faut faire pour créer un objet
+
+5) Qu'est ce qu'un Mock ?
+
+En programmation orientée objet, les mocks (ou Mock object) sont des objets simulés qui reproduisent le comportement d'objets réels de manière contrôlée. Un programmeur crée un mock dans le but de tester le comportement d'autres objets, réels, mais liés à un objet inaccessible ou non implémenté. Ce dernier est alors remplacé par un mock.
+
+6) Qu'est ce que le scaffolding ?
+
+L'échafaudage ou scaffolding en anglais est une manière de concevoir des logiciels liés à une base de données. Cette technique est souvent fournie avec le patron de conception Modèle-Vue-Contrôleur, dans lequel le programmeur écrit une spécification décrivant comment la base de données sera utilisée. Le compilateur génère le code source de création, lecture, mise à jour et suppression (CRUD) des données en base pour l'application. Cet échafaudage est le point de départ d'une application plus puissante.
+
+7) Qu'est ce qu'un RAD ?
+
+RAD = Rapid Application Development... 
+c'est des outils pour déveloper des logiciels fonctionels
+
+8) Qu'est ce que le refactoring ?
+
+Le réusinage de code (traduction de l'anglais code refactoring), ou parfois refactorisation, est l'opération consistant à retravailler le code source d'un programme informatique – sans toutefois y ajouter des fonctionnalités ni en corriger les bogues – de façon à en améliorer la lisibilité et par voie de conséquence la maintenance, ou à le rendre plus générique (afin par exemple de faciliter le passage de simple en multiple précision) ; on parle aussi de « remaniement ». Cette technique utilise quelques méthodes propres à l'optimisation du code, avec des objectifs différents.
+
+
